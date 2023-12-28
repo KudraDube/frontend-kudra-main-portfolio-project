@@ -4,7 +4,7 @@ This repository hosts the source code for my personal website: https://kudra-per
 
 The site primarily showcases my expertise in frontend development, highlighting various projects through the 'MyPortfolio' component.
 
-Built using React.js, the website is a demonstration of my proficiency in employing React principles like JSX, components, hooks, styling, and form implementation.
+Built using React.js, the website is a demonstration of my proficiency in employing React concepts like JSX, components, hooks, styling, and form implementation.
 
 Its main goal is to exhibit my understanding and application of React.js functionalities in creating engaging and interactive user interfaces."
 
