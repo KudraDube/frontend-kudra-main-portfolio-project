@@ -31,21 +31,21 @@
       "src": "./img/placeholder-image.png",
       "title": "Bank website",
       "description": "This front-end React.js website merges functionality, Tailwind CSS, and Vite for innovative design exploration.",
-      "link": "Visit the site"
+      "link": "https://kudra-bank-website.netlify.app/"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Vanilla JS portfolio site",
       "description": "This site features links to projects that emphasize core Python fundamentals such as Data types, Control structures, Functions, OOP etc.",
-      "link": "Visit the site"
+      "link": "https://back-end-portfolio-site.netlify.app/"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.jpg",
       "title": "Quote generator site",
       "description": "This website showcases React fundamentals such as State, Components and API data fetching in an engaging, interactive manner.",
-      "link": "Visit the site"
+      "link": "https://quote-generator-wesbite.netlify.app/"
     }
   ]
 }

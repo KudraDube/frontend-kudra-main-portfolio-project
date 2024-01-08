@@ -14,7 +14,7 @@ export default function HeroSection() {
             <br /> Full Stack Developer passionate about innovation.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <a href="mailto:your@email.com" className="btn btn-primary">Get In Touch</a>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.jpg" alt="Hero Section" />
