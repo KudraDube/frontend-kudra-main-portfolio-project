@@ -63,7 +63,7 @@ export default function ContactMe() {
             className="contact--input text-md"
             id="message"
             rows="8"
-            placeholder="Type your message..."
+            placeholder="Apologies! Our submit button is currently under development. For inquiries, kindly use the 'Get in touch' button at the top of the page to reach us via email."
           />
         </label>
         <label htmlFor="checkboc" className="checkbox--label">
